@@ -1,6 +1,6 @@
 # dump1090-Mrtg-stats
 
-![alt tag](https://github.com/rvdhoek/dump1090-Mrtg-stats/blob/master/printscreen.png)
+![alt tag](https://github.com/rvdhoek/dump1090-Mrtg-stats/blob/master/Printscreen.png)
 
 Intallation (for existing mrtg installation)
 -----------
