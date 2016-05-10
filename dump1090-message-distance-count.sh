@@ -5,8 +5,8 @@ hostdump1090="localhost"
 port="8080"
 
 #Local gps location
-Latitude="51.70896"
-Longitude="4.705"
+Latitude="00.00000"
+Longitude="0.000"
 
 deg2rad () {
         bc -l <<< "$1 * 0.0174532925"
